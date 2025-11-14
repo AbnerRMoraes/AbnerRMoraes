@@ -1,4 +1,4 @@
-# Hi, I'm Abner Rocha de Moraes! 👋
+# Hi, I'm Abner Rocha de Moraes!
 
 Still studying programming Building practical projects
 
