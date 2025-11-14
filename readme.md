@@ -23,5 +23,6 @@ Learning frameworks such as React, basic Spring Boot and exploring Three.js
 Node.js, Express,, REST APIs, Git
 
 mySQL
-- Email: `<Contact.abner.moraes@gmail.com>`
+
+- Email: `Contact.abner.moraes@gmail.com`
 
